@@ -5,3 +5,8 @@ But the Mummy will appreciate the lack of humidity
 -- I will catch you.
 
 This is a test to collaborator.
+
+
+
+These are the forced conflict lines included by the owner
+This line too!.
