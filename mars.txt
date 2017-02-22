@@ -4,9 +4,4 @@ But the Mummy will appreciate the lack of humidity
 //This line is just a comment made by Wolfman hunter:
 -- I will catch you.
 
-This is a test to collaborator.
-
-
-
-These are the forced conflict lines included by the owner
-This line too!.
+And now the conflict is removed
